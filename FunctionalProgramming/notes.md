@@ -23,3 +23,7 @@
 * Inserendo nella promise una funzione è possibile gestire il valore di ritorno tramite il metodo then()
 #### Async / Await
 * Tramite i costrutti awayt e async è possibile bloccare l'esecuzione di funzioni asincrone
+## Comandi
+* functional-javascript 
+* functional-javascript run [nome_file.js]
+* functional-javascript verify [nome_file.js]
